@@ -26,5 +26,28 @@
       ],
       "image" : "peach-mango.svg"
     }
+    ,
+    {
+      "name" : "Polar Pineapple Surprise",
+      "calories" : 320,
+      "type" : "sorbet",
+      "ingredients" : [
+        "pineapple purée",
+        "lime zest",
+        "coconut flakes"
+      ],
+      "image" : "ice-cream-xtra1.svg"
+    },
+    {
+      "name" : "Midnight Cocoa Crunch",
+      "calories" : 420,
+      "type" : "ice cream",
+      "ingredients" : [
+        "dark chocolate base",
+        "toasted hazelnuts",
+        "black cocoa swirls"
+      ],
+      "image" : "ice-cream-xtra2.svg"
+    }
   ]
 }
